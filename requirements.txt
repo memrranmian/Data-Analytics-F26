@@ -1,0 +1,13 @@
+# Requirements for Markdown Assignment 01 & PDF Generation Tooling
+
+# Core Markdown Parsing & AST transformation
+mistune>=3.0.0
+
+# Image handling & processing
+Pillow>=10.0.0
+
+# Optional scientific and data analysis packages associated with project portfolio
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+scikit-learn>=1.3.0

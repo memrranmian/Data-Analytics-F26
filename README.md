@@ -47,7 +47,7 @@ As outlined in the official assignment specification (`MARKDOWN LANGUAGE ASSIGNM
 ├── MSDSF25A007_markdown_assignment.html  # Intermediate HTML file with MathJax styling
 ├── data_science_dashboard.png           # Visual asset embedded in Part H
 ├── convert_to_pdf.py                    # Python automation script for Markdown-to-PDF rendering
-├── final/                               # Clean submission bundle
+├── requirements.txt                     # Project dependencies and environment packages
 └── README.md                            # Project documentation and assignment walkthrough
 ```
 
